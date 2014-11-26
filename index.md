@@ -17,7 +17,9 @@ This page is not automatically updated with the source, but will be updated at e
 - a
 {:toc}
 
-# Design goals
+# About
+
+## Design goals
 
 - readable
 - portable: produces the same output, or good output, across multiple implementations.
@@ -29,7 +31,7 @@ This page is not automatically updated with the source, but will be updated at e
     Every rationale section or paragraph is marked with `rationale`
     so you can skip it if you are only interested in the final decisions.
 
-# Notable users
+## Notable users
 
 - [GitLab](https://github.com/gitlabhq/gitlabhq/blob/master/CONTRIBUTING.md#style-guides)
 - [Vim Markdown](https://github.com/plasticboy/vim-markdown/blob/master/CONTRIBUTING.md#style)
@@ -52,7 +54,7 @@ You are more likely to be notable if your project:
 - is popular. Any popularity measure will be taken into account, e.g. GitHub stars,
     Google Rank, etc. 2K+ GitHub stars makes for a very strong case.
 
-# Options system
+## Options system
 
 Disputed points will be given multiple alternative style options.
 
@@ -75,7 +77,7 @@ When referring to this guide, specify all non-default options in a comma separat
 
     Use the Markdown Style Guide wrap:space, code:indented
 
-# Why fork Carwin
+## Why fork Carwin
 
 This guide was forked from [carwin/markdown-styleguide](https://github.com/carwin/markdown-styleguide/tree/9121c77bd177a3ade6713d50ab1228782d7c02a7)
 because there were many important points in which we disagreed. This guide proposes:
